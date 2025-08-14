@@ -1,0 +1,5 @@
+// store value in greet variable
+const greet = "Hello";
+
+// print the value of greet variable
+console.log(greet);
